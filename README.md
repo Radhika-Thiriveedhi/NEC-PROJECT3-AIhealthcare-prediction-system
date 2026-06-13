@@ -3,7 +3,8 @@
 An intelligent healthcare web application built using **Streamlit, Python, Machine Learning, and SQLite**.  
 It helps hospitals manage patients, doctors, appointments, and resources while providing AI-based disease prediction and analytics.
 
----
+## Live link
+https://nec-project3-aihealthcare-prediction.onrender.com
 
 ## 🚀 Features
 
